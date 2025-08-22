@@ -42,7 +42,7 @@ Cuando informes un error, por favor incluye:
 - Pasos para reproducir el problema.
 - Capturas de pantalla o video si es posible.
 
-Contacto: **tuemail@ejemplo.com** (sustituye por el tuyo).
+Contacto: **soporte@adoptanimalsapp.com** (sustituye por el tuyo).
 
 ---
 
